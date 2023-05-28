@@ -1,0 +1,38 @@
+span {
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+
+  text-align: center;
+  height: 60px;
+  margin-left: 20px;
+}
+
+.side {
+  display: flex;
+  flex-direction: row;
+}
+
+.viewList {
+  border: none;
+  color: orange;
+}
+
+.food-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  margin-right: 30px;
+}
+
+.food-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.horizontal-line {
+  height: 1px;
+  width: 100%;
+  background-color: black;
+}

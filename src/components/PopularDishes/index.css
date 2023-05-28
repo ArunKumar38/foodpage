@@ -1,0 +1,12 @@
+.dish-name {
+  color: white;
+  font-family: Roboto;
+  font-weight: 100px;
+}
+
+.circular-image {
+  border-radius: 50%;
+  border: 2px solid orange;
+  margin: 20px;
+  display: inline-block;
+}

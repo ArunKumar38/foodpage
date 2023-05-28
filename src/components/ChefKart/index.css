@@ -1,0 +1,78 @@
+.food-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.black-container {
+  background-color: black;
+  height: 100px;
+  padding: 20px;
+}
+.main-heading {
+  font-family: Roboto;
+  margin-left: 20px;
+  text-align: center;
+}
+
+.second-heading {
+  font-family: Roboto;
+  margin-left: 20px;
+}
+.grey-button {
+  color: gray;
+  border-color: gray;
+}
+
+.date-container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  border-radius: 10px;
+  padding: 0px 100px;
+  margin-top: 40px;
+  align-items: center;
+  box-shadow: 5px 5px 5px 5px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.orange-button {
+  color: orange;
+  background-color: lightyellow;
+  font-weight: bold;
+}
+button {
+  padding: 10px;
+  border-radius: 30px;
+  border: 1px solid;
+  background-color: white;
+  width: 150px;
+  margin-left: 30px;
+  margin: 30px;
+}
+
+.dish-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.recommend-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 30px;
+}
+
+.menu-button {
+  color: white;
+  background-color: black;
+  width: 100px;
+  font-weight: 500;
+}
